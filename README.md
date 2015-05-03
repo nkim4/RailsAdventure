@@ -1,2 +1,2 @@
 # RailsPersonal
-# RailsPersonal
+# And Tutorial Material
